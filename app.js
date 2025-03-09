@@ -41,7 +41,7 @@ function sortearAmigo() {
         guardarNomeAmigos = [];  
         atualizarLista();        
         resultado.innerHTML = ""; 
-    }, 5000); 
+    }, 30000); 
 }
 
 document.getElementById('amigo').addEventListener('keypress', function(event) {
