@@ -2,6 +2,9 @@
 
 Este é um projeto simples para adicionar nomes de amigos a uma lista e sortear um nome aleatoriamente. Ideal para brincadeiras como **Amigo Secreto**.
 
+Projeto no ar:
+https://friend-secret-blush.vercel.app/
+
 ## 📌 Funcionalidades
 
 - Adicionar amigos a uma lista
